@@ -1,0 +1,43 @@
+.feature-icon {
+  
+    background-color: rgb(148 61 74 / 0.2);
+    color: rgb(140 27 42 / 1);
+   
+}
+
+.about-feature li::before{
+    background-color: rgb(140 27 42 / 1);
+    box-shadow: 0px 14px 15px rgb(148 61 74 / 0.2)
+
+}
+
+
+div#formulario-contacto .ui.input {
+    width: 100%;
+}
+
+div#formulario-contacto input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div#formulario-contacto label {
+    color: #fff;
+    font-weight: bold;
+}
+
+button#requestFormButton {
+    background-color: #353535!important;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+
+div#formulario-contacto textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
